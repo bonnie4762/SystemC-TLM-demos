@@ -1,1 +1,2 @@
-# SystemC-TLM-demos
+# SystemC-demos
+This repository contains simple SystemC demos.
